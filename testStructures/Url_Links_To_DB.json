@@ -1,0 +1,10 @@
+{
+    "AGENT" : "Client Connection to FOD-API-DataBase",
+    "BASE_LINK": "http://localhost:8080/",
+    "STUDENTS": "EstudiantesXExamen/",
+    "ITEM_BY_ID": "ItemsXExamen/",
+    "ITEM_SOLUTIONS": "respuestaItem/",
+    "ITEM_CONDITIONS": "condicionesItem/",
+    "SOL_STUDENT_EXAM_ITEM": "RespEstuXItemxExamen/",
+    "GRADE_TO_STUDENT" : "ActualizarNota/"
+}

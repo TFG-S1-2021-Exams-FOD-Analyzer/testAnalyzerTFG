@@ -1,0 +1,15 @@
+para principal ()
+    i := 0
+    mientras(i <= 3) haga
+        imprimir("solamente se ejecuta una vez")
+        finciclo
+    fin
+
+    i := 0
+    mientras(i <= 3) haga
+        imprimir("esta linea si se ejecuta")
+        i := i + 1
+        continuar
+        imprimir("esta linea nunca se ejecuta")
+    fin
+fin

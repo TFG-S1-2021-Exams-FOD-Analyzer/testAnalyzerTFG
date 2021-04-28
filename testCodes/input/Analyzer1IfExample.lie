@@ -1,0 +1,10 @@
+para principal ()
+    bandera1 := verdadero
+    bandera2 := falso
+    resultado := bandera1 o bandera2 y verdadero y falso
+    si (resultado) entonces
+        imprimir("resultado verdadero")
+    sino
+        imprimir("resultado falso")
+    fin
+fin
