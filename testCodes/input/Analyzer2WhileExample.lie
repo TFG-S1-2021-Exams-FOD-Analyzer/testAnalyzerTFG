@@ -1,15 +1,12 @@
 para principal ()
     i := 0
     mientras(i <= 3) haga
-        imprimir("solamente se ejecuta una vez")
-        finciclo
-    fin
-
-    i := 0
-    mientras(i <= 3) haga
-        imprimir("esta linea si se ejecuta")
+        imprimir("iteracion: " + i)
+        anidado := 0
+        mientras (anidado <= 2) haga
+            imprimir("anidado: " + anidado)
+            anidado := anidado + 1
+        fin
         i := i + 1
-        continuar
-        imprimir("esta linea nunca se ejecuta")
     fin
 fin

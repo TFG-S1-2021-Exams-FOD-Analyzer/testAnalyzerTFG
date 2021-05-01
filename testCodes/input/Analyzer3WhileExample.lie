@@ -20,7 +20,7 @@ para dobleFactorial(pNumero)
     devolver factorial
 fin
 
-para dobleFactorial(pNumero)
+para dobleFactorial1(pNumero)
     factorial := 1
     si ((pNumero mod 2) igual 1) entonces // Es impar
         contador := 1
