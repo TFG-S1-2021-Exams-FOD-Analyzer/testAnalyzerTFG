@@ -24,9 +24,14 @@
       },
       "ExeAnswers": [
         {
+          "variable": "bandera",
+          "valorFinal": "true",
+          "peso": 10.0
+        },
+        {
           "variable": "out",
           "valorFinal": "bandera: verdadero",
-          "peso": 20.0
+          "peso": 10.0
         }
       ],
       "MappedSolutions": []
@@ -51,11 +56,16 @@
         "Peso_clon": 10
       },
       "ExeAnswers": [
-          {
-            "variable": "out",
-            "valorFinal": "valor de num: 0\nvalor de num: 1\nvalor de num: 2\niteracion: 0\niteracion: 1\niteracion: 2\niteracion: 3",
-            "peso": 20.0
-          }
+        {
+          "variable": "num",
+          "valorFinal": "3",
+          "peso": 10.0
+        },
+        {
+          "variable": "out",
+          "valorFinal": "valor de num: 0\nvalor de num: 1\nvalor de num: 2\niteracion: 0\niteracion: 1\niteracion: 2\niteracion: 3",
+          "peso": 10.0
+        }
         ],
       "MappedSolutions": []
     },

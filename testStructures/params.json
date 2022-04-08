@@ -1,8 +1,0 @@
-{"substatement_factor": 0.05, 
- "t3_default": 0.35, 
- "return_factor": 0.05, 
- "t2_threshold": 0.35, 
- "t3_threshold": 0.55, 
- "total_match": 0.0,
- "no_clone": 0.60,
- "no_clone_verified": 0.50}

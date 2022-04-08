@@ -1,6 +1,6 @@
 [
   { "idRespuestaEstudianteXExamen": 1,
-    "idItem" : 39,
+    "idItem" : 184,
     "Respuesta": "para principal ()\n    i := 0\n    mientras(i <= 3) haga\n        imprimir(\"iteracion: \" + i)\n        anidado := 0\n        mientras (anidado <= 2) haga\n            imprimir(\"anidado: \" + anidado)\n            anidado := anidado + 1\n        fin\n        i := i + 1\n    fin\n    mientras(i <= 3) haga\n        imprimir(\"iteracion: \" + i)\n        anidado := 0\n        mientras (anidado <= 2) haga\n            imprimir(\"anidado: \" + anidado)\n            anidado := anidado + 1\n        fin\n        i := i + 1\n    fin\nfin"
   },
   { "idRespuestaEstudianteXExamen": 45,
